@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8050'
     url: http://www.gutenberg.org/2009/agents/8050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18471#Ueber-die-schrecklichen-Wirkungen-des-Aufsturzes-eines-Kometen-auf-die-Erdeund--ber-die-vor-f_
 gutenberg_bookshelf:
 - German Language Books
 - DE Sachbuch
