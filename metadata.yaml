@@ -1,0 +1,31 @@
+_repo: Ueber-die-schrecklichen-Wirkungen-des-Aufsturzes-eines-Kometen-auf-die-Erdeund--ber-die-vor-f__18471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gelpke, August Heinrich Christian
+    birthdate: 1769
+    deathdate: 1842
+    gutenberg_agent_id: '8050'
+    url: http://www.gutenberg.org/2009/agents/8050
+description: ''
+gutenberg_bookshelf:
+- German Language Books
+- DE Sachbuch
+gutenberg_issued: '2006-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18471'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- History'
+title: 'Ueber die schrecklichen Wirkungen des Aufsturzes eines Kometen auf die Erde
+
+  und über die vor fünftausend Jahren gehabte Erscheinung dieser Art'
+url: http://www.gutenberg.org/ebooks/18471
